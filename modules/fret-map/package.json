@@ -1,0 +1,19 @@
+{
+  "name": "fret-map",
+  "version": "0.0.0",
+  "author": "",
+  "description": "",
+  "repository": "",
+  "keywords": [],
+  "dependencies" : {
+      "buzz" : "./modules/buzz/"
+  },
+  "main" : [
+      "css/bootstrap.css",
+      "css/bootstrap-responsive.css",
+      "js/plugins.js",
+      "js/main.js"
+  ],
+  "license": "MIT",
+  "engines": {}
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clirequire",
+  "version": "0.2.2",
+  "description": "Require modules in the browser as easily as you would with Node.js!",
+  "main": "clirequire.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DezminSites/clirequire.git"
+  },
+  "keywords": [
+    "Require"
+  ],
+  "author": "Robson Loschi <contato@dezmin.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DezminSites/clirequire/issues"
+  }
+}
