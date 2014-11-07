@@ -81,7 +81,8 @@ function drawChord(tone,type,v){
 //Get tone
 
 //Init
-$(function(){
+//$(function(){
+$('body').on("mainready",function(){
     //Set fonts
     try{Typekit.load();}catch(e){}
     
