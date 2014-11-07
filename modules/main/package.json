@@ -6,8 +6,14 @@
   "repository": "",
   "keywords": [],
   "dependencies" : {
+      "bootstrap-select" : "./modules/bootstrap-select/",
+      "ChordJS" : "./modules/ChordJS/",
+      "fret-map" : "./modules/fret-map/",
+      "metronome" : "./modules/metronome/",
+      "owl-carousel" : "./modules/owl-carousel/"
   },
   "main" : [
+      "fonts/cmv8ilh.js",
       "css/styles.css",
       "js/index.js"
   ],

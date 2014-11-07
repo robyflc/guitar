@@ -1,1 +1,7 @@
-.note.on { cursor: pointer !important; }
+.note.on, #canvas canvas { cursor: pointer !important; }
+
+#canvas { height: 150px; }
+
+.centralize { text-align: center; }
+
+#hover-trigger { height: 50px; width: 100%; position: fixed; z-index: 1039; text-align: center; }

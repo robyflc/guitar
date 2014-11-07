@@ -1,0 +1,18 @@
+{
+  "name": "metronome",
+  "version": "0.0.0",
+  "description": "",
+  "main": [
+      "metronome.js",
+      "index.js"
+  ],
+  "dependencies" : {
+    "jQuery-Knob": "./modules/jQuery-Knob/",
+    "raphael": "./modules/raphael/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}

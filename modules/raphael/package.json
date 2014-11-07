@@ -1,0 +1,7 @@
+{
+  "name": "raphael",
+  "version": "2.1.1",
+  "main": [
+      "raphael-min.js"
+  ]
+}

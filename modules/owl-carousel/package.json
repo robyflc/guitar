@@ -1,0 +1,15 @@
+{
+  "name": "owl-carousel",
+  "version": "0.0.0",
+  "description": "",
+  "main": [
+      "owl.carousel.css",
+      "owl.theme.css",
+      "owl.carousel.js"     
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}

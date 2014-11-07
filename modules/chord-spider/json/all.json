@@ -1,0 +1,2270 @@
+[
+  {
+    "C": "Major"
+  },
+  {
+    "C": "Minor"
+  },
+  {
+    "C": "Diminished"
+  },
+  {
+    "C": "Augmented"
+  },
+  {
+    "C": "Suspended+2nd"
+  },
+  {
+    "C": "Suspended+4th"
+  },
+  {
+    "C": "Major+Flat+5th"
+  },
+  {
+    "C": "Minor+Sharp+5th"
+  },
+  {
+    "C": "Minor+Double+Flat+5th"
+  },
+  {
+    "C": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "C": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "C": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "C": "7th"
+  },
+  {
+    "C": "Minor+7th"
+  },
+  {
+    "C": "Major+7th"
+  },
+  {
+    "C": "Minor+Major+7th"
+  },
+  {
+    "C": "Diminished+7th"
+  },
+  {
+    "C": "Augmented+7th"
+  },
+  {
+    "C": "Augmented+Major+7th"
+  },
+  {
+    "C": "7th+Flat+5th"
+  },
+  {
+    "C": "Major+7th+Flat+5th"
+  },
+  {
+    "C": "Minor+7th+Flat+5th"
+  },
+  {
+    "C": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "C": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "C": "Minor+7th+Sharp+5th"
+  },
+  {
+    "C": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "C": "7th+Flat+9th"
+  },
+  {
+    "C": "6th"
+  },
+  {
+    "C": "Minor+6th"
+  },
+  {
+    "C": "6th+Flat+5th"
+  },
+  {
+    "C": "6th+Add+9th"
+  },
+  {
+    "C": "Minor+6th+Add+9th"
+  },
+  {
+    "C": "9th"
+  },
+  {
+    "C": "Minor+9th"
+  },
+  {
+    "C": "Major+9th"
+  },
+  {
+    "C": "Minor+Major+9th"
+  },
+  {
+    "C": "9th+Flat+5th"
+  },
+  {
+    "C": "Augmented+9th"
+  },
+  {
+    "C": "9th+Suspended+4th"
+  },
+  {
+    "C": "7th+Sharp+9th"
+  },
+  {
+    "C": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "C": "Augmented+Major+9th"
+  },
+  {
+    "C": "11th"
+  },
+  {
+    "C": "Minor+11th"
+  },
+  {
+    "C": "Major+11th"
+  },
+  {
+    "C": "Minor+Major+11th"
+  },
+  {
+    "C": "Major+Sharp+11th"
+  },
+  {
+    "C": "13th"
+  },
+  {
+    "C": "Minor+13th"
+  },
+  {
+    "C": "Major+13th"
+  },
+  {
+    "C": "Minor+Major+13th"
+  },
+  {
+    "C": "7th+Suspended+2nd"
+  },
+  {
+    "C": "Major+7th+Suspended+2nd"
+  },
+  {
+    "C": "7th+Suspended+4th"
+  },
+  {
+    "C": "Major+7th+Suspended+4th"
+  },
+  {
+    "C": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "C": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "C": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "C": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "C": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "C": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "C": "5th"
+  },
+  {
+    "C": "Major+Add+9th"
+  },
+  {
+    "C%23": "Major"
+  },
+  {
+    "C%23": "Minor"
+  },
+  {
+    "C%23": "Diminished"
+  },
+  {
+    "C%23": "Augmented"
+  },
+  {
+    "C%23": "Suspended+2nd"
+  },
+  {
+    "C%23": "Suspended+4th"
+  },
+  {
+    "C%23": "Major+Flat+5th"
+  },
+  {
+    "C%23": "Minor+Sharp+5th"
+  },
+  {
+    "C%23": "Minor+Double+Flat+5th"
+  },
+  {
+    "C%23": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "C%23": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "C%23": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "C%23": "7th"
+  },
+  {
+    "C%23": "Minor+7th"
+  },
+  {
+    "C%23": "Major+7th"
+  },
+  {
+    "C%23": "Minor+Major+7th"
+  },
+  {
+    "C%23": "Diminished+7th"
+  },
+  {
+    "C%23": "Augmented+7th"
+  },
+  {
+    "C%23": "Augmented+Major+7th"
+  },
+  {
+    "C%23": "7th+Flat+5th"
+  },
+  {
+    "C%23": "Major+7th+Flat+5th"
+  },
+  {
+    "C%23": "Minor+7th+Flat+5th"
+  },
+  {
+    "C%23": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "C%23": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "C%23": "Minor+7th+Sharp+5th"
+  },
+  {
+    "C%23": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "C%23": "7th+Flat+9th"
+  },
+  {
+    "C%23": "6th"
+  },
+  {
+    "C%23": "Minor+6th"
+  },
+  {
+    "C%23": "6th+Flat+5th"
+  },
+  {
+    "C%23": "6th+Add+9th"
+  },
+  {
+    "C%23": "Minor+6th+Add+9th"
+  },
+  {
+    "C%23": "9th"
+  },
+  {
+    "C%23": "Minor+9th"
+  },
+  {
+    "C%23": "Major+9th"
+  },
+  {
+    "C%23": "Minor+Major+9th"
+  },
+  {
+    "C%23": "9th+Flat+5th"
+  },
+  {
+    "C%23": "Augmented+9th"
+  },
+  {
+    "C%23": "9th+Suspended+4th"
+  },
+  {
+    "C%23": "7th+Sharp+9th"
+  },
+  {
+    "C%23": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "C%23": "Augmented+Major+9th"
+  },
+  {
+    "C%23": "11th"
+  },
+  {
+    "C%23": "Minor+11th"
+  },
+  {
+    "C%23": "Major+11th"
+  },
+  {
+    "C%23": "Minor+Major+11th"
+  },
+  {
+    "C%23": "Major+Sharp+11th"
+  },
+  {
+    "C%23": "13th"
+  },
+  {
+    "C%23": "Minor+13th"
+  },
+  {
+    "C%23": "Major+13th"
+  },
+  {
+    "C%23": "Minor+Major+13th"
+  },
+  {
+    "C%23": "7th+Suspended+2nd"
+  },
+  {
+    "C%23": "Major+7th+Suspended+2nd"
+  },
+  {
+    "C%23": "7th+Suspended+4th"
+  },
+  {
+    "C%23": "Major+7th+Suspended+4th"
+  },
+  {
+    "C%23": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "C%23": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "C%23": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "C%23": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "C%23": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "C%23": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "C%23": "5th"
+  },
+  {
+    "C%23": "Major+Add+9th"
+  },
+  {
+    "D": "Major"
+  },
+  {
+    "D": "Minor"
+  },
+  {
+    "D": "Diminished"
+  },
+  {
+    "D": "Augmented"
+  },
+  {
+    "D": "Suspended+2nd"
+  },
+  {
+    "D": "Suspended+4th"
+  },
+  {
+    "D": "Major+Flat+5th"
+  },
+  {
+    "D": "Minor+Sharp+5th"
+  },
+  {
+    "D": "Minor+Double+Flat+5th"
+  },
+  {
+    "D": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "D": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "D": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "D": "7th"
+  },
+  {
+    "D": "Minor+7th"
+  },
+  {
+    "D": "Major+7th"
+  },
+  {
+    "D": "Minor+Major+7th"
+  },
+  {
+    "D": "Diminished+7th"
+  },
+  {
+    "D": "Augmented+7th"
+  },
+  {
+    "D": "Augmented+Major+7th"
+  },
+  {
+    "D": "7th+Flat+5th"
+  },
+  {
+    "D": "Major+7th+Flat+5th"
+  },
+  {
+    "D": "Minor+7th+Flat+5th"
+  },
+  {
+    "D": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "D": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "D": "Minor+7th+Sharp+5th"
+  },
+  {
+    "D": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "D": "7th+Flat+9th"
+  },
+  {
+    "D": "6th"
+  },
+  {
+    "D": "Minor+6th"
+  },
+  {
+    "D": "6th+Flat+5th"
+  },
+  {
+    "D": "6th+Add+9th"
+  },
+  {
+    "D": "Minor+6th+Add+9th"
+  },
+  {
+    "D": "9th"
+  },
+  {
+    "D": "Minor+9th"
+  },
+  {
+    "D": "Major+9th"
+  },
+  {
+    "D": "Minor+Major+9th"
+  },
+  {
+    "D": "9th+Flat+5th"
+  },
+  {
+    "D": "Augmented+9th"
+  },
+  {
+    "D": "9th+Suspended+4th"
+  },
+  {
+    "D": "7th+Sharp+9th"
+  },
+  {
+    "D": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "D": "Augmented+Major+9th"
+  },
+  {
+    "D": "11th"
+  },
+  {
+    "D": "Minor+11th"
+  },
+  {
+    "D": "Major+11th"
+  },
+  {
+    "D": "Minor+Major+11th"
+  },
+  {
+    "D": "Major+Sharp+11th"
+  },
+  {
+    "D": "13th"
+  },
+  {
+    "D": "Minor+13th"
+  },
+  {
+    "D": "Major+13th"
+  },
+  {
+    "D": "Minor+Major+13th"
+  },
+  {
+    "D": "7th+Suspended+2nd"
+  },
+  {
+    "D": "Major+7th+Suspended+2nd"
+  },
+  {
+    "D": "7th+Suspended+4th"
+  },
+  {
+    "D": "Major+7th+Suspended+4th"
+  },
+  {
+    "D": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "D": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "D": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "D": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "D": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "D": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "D": "5th"
+  },
+  {
+    "D": "Major+Add+9th"
+  },
+  {
+    "D%23": "Major"
+  },
+  {
+    "D%23": "Minor"
+  },
+  {
+    "D%23": "Diminished"
+  },
+  {
+    "D%23": "Augmented"
+  },
+  {
+    "D%23": "Suspended+2nd"
+  },
+  {
+    "D%23": "Suspended+4th"
+  },
+  {
+    "D%23": "Major+Flat+5th"
+  },
+  {
+    "D%23": "Minor+Sharp+5th"
+  },
+  {
+    "D%23": "Minor+Double+Flat+5th"
+  },
+  {
+    "D%23": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "D%23": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "D%23": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "D%23": "7th"
+  },
+  {
+    "D%23": "Minor+7th"
+  },
+  {
+    "D%23": "Major+7th"
+  },
+  {
+    "D%23": "Minor+Major+7th"
+  },
+  {
+    "D%23": "Diminished+7th"
+  },
+  {
+    "D%23": "Augmented+7th"
+  },
+  {
+    "D%23": "Augmented+Major+7th"
+  },
+  {
+    "D%23": "7th+Flat+5th"
+  },
+  {
+    "D%23": "Major+7th+Flat+5th"
+  },
+  {
+    "D%23": "Minor+7th+Flat+5th"
+  },
+  {
+    "D%23": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "D%23": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "D%23": "Minor+7th+Sharp+5th"
+  },
+  {
+    "D%23": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "D%23": "7th+Flat+9th"
+  },
+  {
+    "D%23": "6th"
+  },
+  {
+    "D%23": "Minor+6th"
+  },
+  {
+    "D%23": "6th+Flat+5th"
+  },
+  {
+    "D%23": "6th+Add+9th"
+  },
+  {
+    "D%23": "Minor+6th+Add+9th"
+  },
+  {
+    "D%23": "9th"
+  },
+  {
+    "D%23": "Minor+9th"
+  },
+  {
+    "D%23": "Major+9th"
+  },
+  {
+    "D%23": "Minor+Major+9th"
+  },
+  {
+    "D%23": "9th+Flat+5th"
+  },
+  {
+    "D%23": "Augmented+9th"
+  },
+  {
+    "D%23": "9th+Suspended+4th"
+  },
+  {
+    "D%23": "7th+Sharp+9th"
+  },
+  {
+    "D%23": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "D%23": "Augmented+Major+9th"
+  },
+  {
+    "D%23": "11th"
+  },
+  {
+    "D%23": "Minor+11th"
+  },
+  {
+    "D%23": "Major+11th"
+  },
+  {
+    "D%23": "Minor+Major+11th"
+  },
+  {
+    "D%23": "Major+Sharp+11th"
+  },
+  {
+    "D%23": "13th"
+  },
+  {
+    "D%23": "Minor+13th"
+  },
+  {
+    "D%23": "Major+13th"
+  },
+  {
+    "D%23": "Minor+Major+13th"
+  },
+  {
+    "D%23": "7th+Suspended+2nd"
+  },
+  {
+    "D%23": "Major+7th+Suspended+2nd"
+  },
+  {
+    "D%23": "7th+Suspended+4th"
+  },
+  {
+    "D%23": "Major+7th+Suspended+4th"
+  },
+  {
+    "D%23": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "D%23": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "D%23": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "D%23": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "D%23": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "D%23": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "D%23": "5th"
+  },
+  {
+    "D%23": "Major+Add+9th"
+  },
+  {
+    "E": "Major"
+  },
+  {
+    "E": "Minor"
+  },
+  {
+    "E": "Diminished"
+  },
+  {
+    "E": "Augmented"
+  },
+  {
+    "E": "Suspended+2nd"
+  },
+  {
+    "E": "Suspended+4th"
+  },
+  {
+    "E": "Major+Flat+5th"
+  },
+  {
+    "E": "Minor+Sharp+5th"
+  },
+  {
+    "E": "Minor+Double+Flat+5th"
+  },
+  {
+    "E": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "E": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "E": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "E": "7th"
+  },
+  {
+    "E": "Minor+7th"
+  },
+  {
+    "E": "Major+7th"
+  },
+  {
+    "E": "Minor+Major+7th"
+  },
+  {
+    "E": "Diminished+7th"
+  },
+  {
+    "E": "Augmented+7th"
+  },
+  {
+    "E": "Augmented+Major+7th"
+  },
+  {
+    "E": "7th+Flat+5th"
+  },
+  {
+    "E": "Major+7th+Flat+5th"
+  },
+  {
+    "E": "Minor+7th+Flat+5th"
+  },
+  {
+    "E": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "E": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "E": "Minor+7th+Sharp+5th"
+  },
+  {
+    "E": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "E": "7th+Flat+9th"
+  },
+  {
+    "E": "6th"
+  },
+  {
+    "E": "Minor+6th"
+  },
+  {
+    "E": "6th+Flat+5th"
+  },
+  {
+    "E": "6th+Add+9th"
+  },
+  {
+    "E": "Minor+6th+Add+9th"
+  },
+  {
+    "E": "9th"
+  },
+  {
+    "E": "Minor+9th"
+  },
+  {
+    "E": "Major+9th"
+  },
+  {
+    "E": "Minor+Major+9th"
+  },
+  {
+    "E": "9th+Flat+5th"
+  },
+  {
+    "E": "Augmented+9th"
+  },
+  {
+    "E": "9th+Suspended+4th"
+  },
+  {
+    "E": "7th+Sharp+9th"
+  },
+  {
+    "E": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "E": "Augmented+Major+9th"
+  },
+  {
+    "E": "11th"
+  },
+  {
+    "E": "Minor+11th"
+  },
+  {
+    "E": "Major+11th"
+  },
+  {
+    "E": "Minor+Major+11th"
+  },
+  {
+    "E": "Major+Sharp+11th"
+  },
+  {
+    "E": "13th"
+  },
+  {
+    "E": "Minor+13th"
+  },
+  {
+    "E": "Major+13th"
+  },
+  {
+    "E": "Minor+Major+13th"
+  },
+  {
+    "E": "7th+Suspended+2nd"
+  },
+  {
+    "E": "Major+7th+Suspended+2nd"
+  },
+  {
+    "E": "7th+Suspended+4th"
+  },
+  {
+    "E": "Major+7th+Suspended+4th"
+  },
+  {
+    "E": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "E": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "E": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "E": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "E": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "E": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "E": "5th"
+  },
+  {
+    "E": "Major+Add+9th"
+  },
+  {
+    "F": "Major"
+  },
+  {
+    "F": "Minor"
+  },
+  {
+    "F": "Diminished"
+  },
+  {
+    "F": "Augmented"
+  },
+  {
+    "F": "Suspended+2nd"
+  },
+  {
+    "F": "Suspended+4th"
+  },
+  {
+    "F": "Major+Flat+5th"
+  },
+  {
+    "F": "Minor+Sharp+5th"
+  },
+  {
+    "F": "Minor+Double+Flat+5th"
+  },
+  {
+    "F": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "F": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "F": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "F": "7th"
+  },
+  {
+    "F": "Minor+7th"
+  },
+  {
+    "F": "Major+7th"
+  },
+  {
+    "F": "Minor+Major+7th"
+  },
+  {
+    "F": "Diminished+7th"
+  },
+  {
+    "F": "Augmented+7th"
+  },
+  {
+    "F": "Augmented+Major+7th"
+  },
+  {
+    "F": "7th+Flat+5th"
+  },
+  {
+    "F": "Major+7th+Flat+5th"
+  },
+  {
+    "F": "Minor+7th+Flat+5th"
+  },
+  {
+    "F": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "F": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "F": "Minor+7th+Sharp+5th"
+  },
+  {
+    "F": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "F": "7th+Flat+9th"
+  },
+  {
+    "F": "6th"
+  },
+  {
+    "F": "Minor+6th"
+  },
+  {
+    "F": "6th+Flat+5th"
+  },
+  {
+    "F": "6th+Add+9th"
+  },
+  {
+    "F": "Minor+6th+Add+9th"
+  },
+  {
+    "F": "9th"
+  },
+  {
+    "F": "Minor+9th"
+  },
+  {
+    "F": "Major+9th"
+  },
+  {
+    "F": "Minor+Major+9th"
+  },
+  {
+    "F": "9th+Flat+5th"
+  },
+  {
+    "F": "Augmented+9th"
+  },
+  {
+    "F": "9th+Suspended+4th"
+  },
+  {
+    "F": "7th+Sharp+9th"
+  },
+  {
+    "F": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "F": "Augmented+Major+9th"
+  },
+  {
+    "F": "11th"
+  },
+  {
+    "F": "Minor+11th"
+  },
+  {
+    "F": "Major+11th"
+  },
+  {
+    "F": "Minor+Major+11th"
+  },
+  {
+    "F": "Major+Sharp+11th"
+  },
+  {
+    "F": "13th"
+  },
+  {
+    "F": "Minor+13th"
+  },
+  {
+    "F": "Major+13th"
+  },
+  {
+    "F": "Minor+Major+13th"
+  },
+  {
+    "F": "7th+Suspended+2nd"
+  },
+  {
+    "F": "Major+7th+Suspended+2nd"
+  },
+  {
+    "F": "7th+Suspended+4th"
+  },
+  {
+    "F": "Major+7th+Suspended+4th"
+  },
+  {
+    "F": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "F": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "F": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "F": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "F": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "F": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "F": "5th"
+  },
+  {
+    "F": "Major+Add+9th"
+  },
+  {
+    "F%23": "Major"
+  },
+  {
+    "F%23": "Minor"
+  },
+  {
+    "F%23": "Diminished"
+  },
+  {
+    "F%23": "Augmented"
+  },
+  {
+    "F%23": "Suspended+2nd"
+  },
+  {
+    "F%23": "Suspended+4th"
+  },
+  {
+    "F%23": "Major+Flat+5th"
+  },
+  {
+    "F%23": "Minor+Sharp+5th"
+  },
+  {
+    "F%23": "Minor+Double+Flat+5th"
+  },
+  {
+    "F%23": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "F%23": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "F%23": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "F%23": "7th"
+  },
+  {
+    "F%23": "Minor+7th"
+  },
+  {
+    "F%23": "Major+7th"
+  },
+  {
+    "F%23": "Minor+Major+7th"
+  },
+  {
+    "F%23": "Diminished+7th"
+  },
+  {
+    "F%23": "Augmented+7th"
+  },
+  {
+    "F%23": "Augmented+Major+7th"
+  },
+  {
+    "F%23": "7th+Flat+5th"
+  },
+  {
+    "F%23": "Major+7th+Flat+5th"
+  },
+  {
+    "F%23": "Minor+7th+Flat+5th"
+  },
+  {
+    "F%23": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "F%23": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "F%23": "Minor+7th+Sharp+5th"
+  },
+  {
+    "F%23": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "F%23": "7th+Flat+9th"
+  },
+  {
+    "F%23": "6th"
+  },
+  {
+    "F%23": "Minor+6th"
+  },
+  {
+    "F%23": "6th+Flat+5th"
+  },
+  {
+    "F%23": "6th+Add+9th"
+  },
+  {
+    "F%23": "Minor+6th+Add+9th"
+  },
+  {
+    "F%23": "9th"
+  },
+  {
+    "F%23": "Minor+9th"
+  },
+  {
+    "F%23": "Major+9th"
+  },
+  {
+    "F%23": "Minor+Major+9th"
+  },
+  {
+    "F%23": "9th+Flat+5th"
+  },
+  {
+    "F%23": "Augmented+9th"
+  },
+  {
+    "F%23": "9th+Suspended+4th"
+  },
+  {
+    "F%23": "7th+Sharp+9th"
+  },
+  {
+    "F%23": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "F%23": "Augmented+Major+9th"
+  },
+  {
+    "F%23": "11th"
+  },
+  {
+    "F%23": "Minor+11th"
+  },
+  {
+    "F%23": "Major+11th"
+  },
+  {
+    "F%23": "Minor+Major+11th"
+  },
+  {
+    "F%23": "Major+Sharp+11th"
+  },
+  {
+    "F%23": "13th"
+  },
+  {
+    "F%23": "Minor+13th"
+  },
+  {
+    "F%23": "Major+13th"
+  },
+  {
+    "F%23": "Minor+Major+13th"
+  },
+  {
+    "F%23": "7th+Suspended+2nd"
+  },
+  {
+    "F%23": "Major+7th+Suspended+2nd"
+  },
+  {
+    "F%23": "7th+Suspended+4th"
+  },
+  {
+    "F%23": "Major+7th+Suspended+4th"
+  },
+  {
+    "F%23": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "F%23": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "F%23": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "F%23": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "F%23": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "F%23": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "F%23": "5th"
+  },
+  {
+    "F%23": "Major+Add+9th"
+  },
+  {
+    "G": "Major"
+  },
+  {
+    "G": "Minor"
+  },
+  {
+    "G": "Diminished"
+  },
+  {
+    "G": "Augmented"
+  },
+  {
+    "G": "Suspended+2nd"
+  },
+  {
+    "G": "Suspended+4th"
+  },
+  {
+    "G": "Major+Flat+5th"
+  },
+  {
+    "G": "Minor+Sharp+5th"
+  },
+  {
+    "G": "Minor+Double+Flat+5th"
+  },
+  {
+    "G": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "G": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "G": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "G": "7th"
+  },
+  {
+    "G": "Minor+7th"
+  },
+  {
+    "G": "Major+7th"
+  },
+  {
+    "G": "Minor+Major+7th"
+  },
+  {
+    "G": "Diminished+7th"
+  },
+  {
+    "G": "Augmented+7th"
+  },
+  {
+    "G": "Augmented+Major+7th"
+  },
+  {
+    "G": "7th+Flat+5th"
+  },
+  {
+    "G": "Major+7th+Flat+5th"
+  },
+  {
+    "G": "Minor+7th+Flat+5th"
+  },
+  {
+    "G": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "G": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "G": "Minor+7th+Sharp+5th"
+  },
+  {
+    "G": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "G": "7th+Flat+9th"
+  },
+  {
+    "G": "6th"
+  },
+  {
+    "G": "Minor+6th"
+  },
+  {
+    "G": "6th+Flat+5th"
+  },
+  {
+    "G": "6th+Add+9th"
+  },
+  {
+    "G": "Minor+6th+Add+9th"
+  },
+  {
+    "G": "9th"
+  },
+  {
+    "G": "Minor+9th"
+  },
+  {
+    "G": "Major+9th"
+  },
+  {
+    "G": "Minor+Major+9th"
+  },
+  {
+    "G": "9th+Flat+5th"
+  },
+  {
+    "G": "Augmented+9th"
+  },
+  {
+    "G": "9th+Suspended+4th"
+  },
+  {
+    "G": "7th+Sharp+9th"
+  },
+  {
+    "G": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "G": "Augmented+Major+9th"
+  },
+  {
+    "G": "11th"
+  },
+  {
+    "G": "Minor+11th"
+  },
+  {
+    "G": "Major+11th"
+  },
+  {
+    "G": "Minor+Major+11th"
+  },
+  {
+    "G": "Major+Sharp+11th"
+  },
+  {
+    "G": "13th"
+  },
+  {
+    "G": "Minor+13th"
+  },
+  {
+    "G": "Major+13th"
+  },
+  {
+    "G": "Minor+Major+13th"
+  },
+  {
+    "G": "7th+Suspended+2nd"
+  },
+  {
+    "G": "Major+7th+Suspended+2nd"
+  },
+  {
+    "G": "7th+Suspended+4th"
+  },
+  {
+    "G": "Major+7th+Suspended+4th"
+  },
+  {
+    "G": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "G": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "G": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "G": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "G": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "G": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "G": "5th"
+  },
+  {
+    "G": "Major+Add+9th"
+  },
+  {
+    "G%23": "Major"
+  },
+  {
+    "G%23": "Minor"
+  },
+  {
+    "G%23": "Diminished"
+  },
+  {
+    "G%23": "Augmented"
+  },
+  {
+    "G%23": "Suspended+2nd"
+  },
+  {
+    "G%23": "Suspended+4th"
+  },
+  {
+    "G%23": "Major+Flat+5th"
+  },
+  {
+    "G%23": "Minor+Sharp+5th"
+  },
+  {
+    "G%23": "Minor+Double+Flat+5th"
+  },
+  {
+    "G%23": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "G%23": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "G%23": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "G%23": "7th"
+  },
+  {
+    "G%23": "Minor+7th"
+  },
+  {
+    "G%23": "Major+7th"
+  },
+  {
+    "G%23": "Minor+Major+7th"
+  },
+  {
+    "G%23": "Diminished+7th"
+  },
+  {
+    "G%23": "Augmented+7th"
+  },
+  {
+    "G%23": "Augmented+Major+7th"
+  },
+  {
+    "G%23": "7th+Flat+5th"
+  },
+  {
+    "G%23": "Major+7th+Flat+5th"
+  },
+  {
+    "G%23": "Minor+7th+Flat+5th"
+  },
+  {
+    "G%23": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "G%23": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "G%23": "Minor+7th+Sharp+5th"
+  },
+  {
+    "G%23": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "G%23": "7th+Flat+9th"
+  },
+  {
+    "G%23": "6th"
+  },
+  {
+    "G%23": "Minor+6th"
+  },
+  {
+    "G%23": "6th+Flat+5th"
+  },
+  {
+    "G%23": "6th+Add+9th"
+  },
+  {
+    "G%23": "Minor+6th+Add+9th"
+  },
+  {
+    "G%23": "9th"
+  },
+  {
+    "G%23": "Minor+9th"
+  },
+  {
+    "G%23": "Major+9th"
+  },
+  {
+    "G%23": "Minor+Major+9th"
+  },
+  {
+    "G%23": "9th+Flat+5th"
+  },
+  {
+    "G%23": "Augmented+9th"
+  },
+  {
+    "G%23": "9th+Suspended+4th"
+  },
+  {
+    "G%23": "7th+Sharp+9th"
+  },
+  {
+    "G%23": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "G%23": "Augmented+Major+9th"
+  },
+  {
+    "G%23": "11th"
+  },
+  {
+    "G%23": "Minor+11th"
+  },
+  {
+    "G%23": "Major+11th"
+  },
+  {
+    "G%23": "Minor+Major+11th"
+  },
+  {
+    "G%23": "Major+Sharp+11th"
+  },
+  {
+    "G%23": "13th"
+  },
+  {
+    "G%23": "Minor+13th"
+  },
+  {
+    "G%23": "Major+13th"
+  },
+  {
+    "G%23": "Minor+Major+13th"
+  },
+  {
+    "G%23": "7th+Suspended+2nd"
+  },
+  {
+    "G%23": "Major+7th+Suspended+2nd"
+  },
+  {
+    "G%23": "7th+Suspended+4th"
+  },
+  {
+    "G%23": "Major+7th+Suspended+4th"
+  },
+  {
+    "G%23": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "G%23": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "G%23": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "G%23": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "G%23": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "G%23": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "G%23": "5th"
+  },
+  {
+    "G%23": "Major+Add+9th"
+  },
+  {
+    "A": "Major"
+  },
+  {
+    "A": "Minor"
+  },
+  {
+    "A": "Diminished"
+  },
+  {
+    "A": "Augmented"
+  },
+  {
+    "A": "Suspended+2nd"
+  },
+  {
+    "A": "Suspended+4th"
+  },
+  {
+    "A": "Major+Flat+5th"
+  },
+  {
+    "A": "Minor+Sharp+5th"
+  },
+  {
+    "A": "Minor+Double+Flat+5th"
+  },
+  {
+    "A": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "A": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "A": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "A": "7th"
+  },
+  {
+    "A": "Minor+7th"
+  },
+  {
+    "A": "Major+7th"
+  },
+  {
+    "A": "Minor+Major+7th"
+  },
+  {
+    "A": "Diminished+7th"
+  },
+  {
+    "A": "Augmented+7th"
+  },
+  {
+    "A": "Augmented+Major+7th"
+  },
+  {
+    "A": "7th+Flat+5th"
+  },
+  {
+    "A": "Major+7th+Flat+5th"
+  },
+  {
+    "A": "Minor+7th+Flat+5th"
+  },
+  {
+    "A": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "A": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "A": "Minor+7th+Sharp+5th"
+  },
+  {
+    "A": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "A": "7th+Flat+9th"
+  },
+  {
+    "A": "6th"
+  },
+  {
+    "A": "Minor+6th"
+  },
+  {
+    "A": "6th+Flat+5th"
+  },
+  {
+    "A": "6th+Add+9th"
+  },
+  {
+    "A": "Minor+6th+Add+9th"
+  },
+  {
+    "A": "9th"
+  },
+  {
+    "A": "Minor+9th"
+  },
+  {
+    "A": "Major+9th"
+  },
+  {
+    "A": "Minor+Major+9th"
+  },
+  {
+    "A": "9th+Flat+5th"
+  },
+  {
+    "A": "Augmented+9th"
+  },
+  {
+    "A": "9th+Suspended+4th"
+  },
+  {
+    "A": "7th+Sharp+9th"
+  },
+  {
+    "A": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "A": "Augmented+Major+9th"
+  },
+  {
+    "A": "11th"
+  },
+  {
+    "A": "Minor+11th"
+  },
+  {
+    "A": "Major+11th"
+  },
+  {
+    "A": "Minor+Major+11th"
+  },
+  {
+    "A": "Major+Sharp+11th"
+  },
+  {
+    "A": "13th"
+  },
+  {
+    "A": "Minor+13th"
+  },
+  {
+    "A": "Major+13th"
+  },
+  {
+    "A": "Minor+Major+13th"
+  },
+  {
+    "A": "7th+Suspended+2nd"
+  },
+  {
+    "A": "Major+7th+Suspended+2nd"
+  },
+  {
+    "A": "7th+Suspended+4th"
+  },
+  {
+    "A": "Major+7th+Suspended+4th"
+  },
+  {
+    "A": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "A": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "A": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "A": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "A": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "A": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "A": "5th"
+  },
+  {
+    "A": "Major+Add+9th"
+  },
+  {
+    "A%23": "Major"
+  },
+  {
+    "A%23": "Minor"
+  },
+  {
+    "A%23": "Diminished"
+  },
+  {
+    "A%23": "Augmented"
+  },
+  {
+    "A%23": "Suspended+2nd"
+  },
+  {
+    "A%23": "Suspended+4th"
+  },
+  {
+    "A%23": "Major+Flat+5th"
+  },
+  {
+    "A%23": "Minor+Sharp+5th"
+  },
+  {
+    "A%23": "Minor+Double+Flat+5th"
+  },
+  {
+    "A%23": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "A%23": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "A%23": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "A%23": "7th"
+  },
+  {
+    "A%23": "Minor+7th"
+  },
+  {
+    "A%23": "Major+7th"
+  },
+  {
+    "A%23": "Minor+Major+7th"
+  },
+  {
+    "A%23": "Diminished+7th"
+  },
+  {
+    "A%23": "Augmented+7th"
+  },
+  {
+    "A%23": "Augmented+Major+7th"
+  },
+  {
+    "A%23": "7th+Flat+5th"
+  },
+  {
+    "A%23": "Major+7th+Flat+5th"
+  },
+  {
+    "A%23": "Minor+7th+Flat+5th"
+  },
+  {
+    "A%23": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "A%23": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "A%23": "Minor+7th+Sharp+5th"
+  },
+  {
+    "A%23": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "A%23": "7th+Flat+9th"
+  },
+  {
+    "A%23": "6th"
+  },
+  {
+    "A%23": "Minor+6th"
+  },
+  {
+    "A%23": "6th+Flat+5th"
+  },
+  {
+    "A%23": "6th+Add+9th"
+  },
+  {
+    "A%23": "Minor+6th+Add+9th"
+  },
+  {
+    "A%23": "9th"
+  },
+  {
+    "A%23": "Minor+9th"
+  },
+  {
+    "A%23": "Major+9th"
+  },
+  {
+    "A%23": "Minor+Major+9th"
+  },
+  {
+    "A%23": "9th+Flat+5th"
+  },
+  {
+    "A%23": "Augmented+9th"
+  },
+  {
+    "A%23": "9th+Suspended+4th"
+  },
+  {
+    "A%23": "7th+Sharp+9th"
+  },
+  {
+    "A%23": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "A%23": "Augmented+Major+9th"
+  },
+  {
+    "A%23": "11th"
+  },
+  {
+    "A%23": "Minor+11th"
+  },
+  {
+    "A%23": "Major+11th"
+  },
+  {
+    "A%23": "Minor+Major+11th"
+  },
+  {
+    "A%23": "Major+Sharp+11th"
+  },
+  {
+    "A%23": "13th"
+  },
+  {
+    "A%23": "Minor+13th"
+  },
+  {
+    "A%23": "Major+13th"
+  },
+  {
+    "A%23": "Minor+Major+13th"
+  },
+  {
+    "A%23": "7th+Suspended+2nd"
+  },
+  {
+    "A%23": "Major+7th+Suspended+2nd"
+  },
+  {
+    "A%23": "7th+Suspended+4th"
+  },
+  {
+    "A%23": "Major+7th+Suspended+4th"
+  },
+  {
+    "A%23": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "A%23": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "A%23": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "A%23": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "A%23": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "A%23": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "A%23": "5th"
+  },
+  {
+    "A%23": "Major+Add+9th"
+  },
+  {
+    "B": "Major"
+  },
+  {
+    "B": "Minor"
+  },
+  {
+    "B": "Diminished"
+  },
+  {
+    "B": "Augmented"
+  },
+  {
+    "B": "Suspended+2nd"
+  },
+  {
+    "B": "Suspended+4th"
+  },
+  {
+    "B": "Major+Flat+5th"
+  },
+  {
+    "B": "Minor+Sharp+5th"
+  },
+  {
+    "B": "Minor+Double+Flat+5th"
+  },
+  {
+    "B": "Suspended+4th+Sharp+5th"
+  },
+  {
+    "B": "Suspended+2nd+Flat+5th"
+  },
+  {
+    "B": "Suspended+2nd+Sharp+5th"
+  },
+  {
+    "B": "7th"
+  },
+  {
+    "B": "Minor+7th"
+  },
+  {
+    "B": "Major+7th"
+  },
+  {
+    "B": "Minor+Major+7th"
+  },
+  {
+    "B": "Diminished+7th"
+  },
+  {
+    "B": "Augmented+7th"
+  },
+  {
+    "B": "Augmented+Major+7th"
+  },
+  {
+    "B": "7th+Flat+5th"
+  },
+  {
+    "B": "Major+7th+Flat+5th"
+  },
+  {
+    "B": "Minor+7th+Flat+5th"
+  },
+  {
+    "B": "Minor+Major+7th+Flat+5th"
+  },
+  {
+    "B": "Minor+Major+7th+Double+Flat+5th"
+  },
+  {
+    "B": "Minor+7th+Sharp+5th"
+  },
+  {
+    "B": "Minor+Major+7th+Sharp+5th"
+  },
+  {
+    "B": "7th+Flat+9th"
+  },
+  {
+    "B": "6th"
+  },
+  {
+    "B": "Minor+6th"
+  },
+  {
+    "B": "6th+Flat+5th"
+  },
+  {
+    "B": "6th+Add+9th"
+  },
+  {
+    "B": "Minor+6th+Add+9th"
+  },
+  {
+    "B": "9th"
+  },
+  {
+    "B": "Minor+9th"
+  },
+  {
+    "B": "Major+9th"
+  },
+  {
+    "B": "Minor+Major+9th"
+  },
+  {
+    "B": "9th+Flat+5th"
+  },
+  {
+    "B": "Augmented+9th"
+  },
+  {
+    "B": "9th+Suspended+4th"
+  },
+  {
+    "B": "7th+Sharp+9th"
+  },
+  {
+    "B": "7th+Sharp+9th+Flat+5th"
+  },
+  {
+    "B": "Augmented+Major+9th"
+  },
+  {
+    "B": "11th"
+  },
+  {
+    "B": "Minor+11th"
+  },
+  {
+    "B": "Major+11th"
+  },
+  {
+    "B": "Minor+Major+11th"
+  },
+  {
+    "B": "Major+Sharp+11th"
+  },
+  {
+    "B": "13th"
+  },
+  {
+    "B": "Minor+13th"
+  },
+  {
+    "B": "Major+13th"
+  },
+  {
+    "B": "Minor+Major+13th"
+  },
+  {
+    "B": "7th+Suspended+2nd"
+  },
+  {
+    "B": "Major+7th+Suspended+2nd"
+  },
+  {
+    "B": "7th+Suspended+4th"
+  },
+  {
+    "B": "Major+7th+Suspended+4th"
+  },
+  {
+    "B": "7th+Suspended+2nd+Sharp+5th"
+  },
+  {
+    "B": "7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "B": "Major+7th+Suspended+4th+Sharp+5th"
+  },
+  {
+    "B": "Suspended+2nd+Suspended+4th"
+  },
+  {
+    "B": "7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "B": "Major+7th+Suspended+2nd+Suspended+4th"
+  },
+  {
+    "B": "5th"
+  },
+  {
+    "B": "Major+Add+9th"
+  }
+]
