@@ -64,6 +64,43 @@ function drawScale(tone,s){
     }
 }
 
+//Draw field
+function drawField(s){
+    var html = "<table class=\"field-table\"><tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th><th>VI</th><th>VII</th></tr>";
+    html += "<tr>"
+    html += "<td>Note</td>"
+    html += "<td>"+s[0]+"</td>"
+    html += "<td>"+s[1]+"</td>"
+    html += "<td>"+s[2]+"</td>"
+    html += "<td>"+s[3]+"</td>"
+    html += "<td>"+s[4]+"</td>"
+    html += "<td>"+s[5]+"</td>"
+    html += "<td>"+s[6]+"</td>"
+    html += "</tr>"
+    html += "<tr>"
+    html += "<td>Triad</td>"
+    html += "<td>"+s[0]+"</td>"
+    html += "<td>"+s[1]+"m</td>"
+    html += "<td>"+s[2]+"m</td>"
+    html += "<td>"+s[3]+"</td>"
+    html += "<td>"+s[4]+"</td>"
+    html += "<td>"+s[5]+"m</td>"
+    html += "<td>"+s[6]+"m(b5)</td>"
+    html += "</tr>"
+    html += "<tr>"
+    html += "<td>Tetrad</td>"
+    html += "<td>"+s[0]+"7M</td>"
+    html += "<td>"+s[1]+"m7</td>"
+    html += "<td>"+s[2]+"m7</td>"
+    html += "<td>"+s[3]+"7M</td>"
+    html += "<td>"+s[4]+"7</td>"
+    html += "<td>"+s[5]+"m7</td>"
+    html += "<td>"+s[6]+"m7(b5)</td>"
+    html += "</tr>"
+    html += "</table>";
+    $('#canvas').html(html)
+}
+
 //Draw chord
 function drawChord(tone,type,v){
     var variation = v || 0
@@ -161,9 +198,10 @@ $('body').on("mainready",function(){
         var tone = $('#select-note').val()
         var type = $('#note-modifier').val()
         var s = scale(tone,type);
-        $('#canvas').html(s.join(' '))
+        drawField(s);
+        //$('#canvas').html(s.join(' '))
         //Draw fret
-        drawScale(tone,s)
+        drawScale(tone,s);
     })
     
     $('body').on('click','#get-chord',function(){
